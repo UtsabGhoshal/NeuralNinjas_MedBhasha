@@ -128,5 +128,3 @@ python pipeline/round2/official_round2_runner.py
 
 **Team Neural Ninjas**  
 *COMSYS Hackathon-8 — MedBhasha Clinical NLP Track*  
-*Kolkata, India*
-
